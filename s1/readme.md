@@ -1,2 +1,3 @@
-aca van las cosas de la semana 1
-tableaus
+aca van las cosas de la semana 
+tableau
+week 43
