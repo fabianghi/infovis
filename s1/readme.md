@@ -10,7 +10,7 @@ Algunas visualizaciones:
 
 1. [Tableau](https://fabianghi.github.io/infovis/s1/tableau.html)
 2. [RawGraph](https://fabianghi.github.io/infovis/s1/BumpChart.html) 
-3. ObservableHQ (del Profe Ariel)
+3. ObservableHQ (del Profe Ariel; yo no pude seguirlo)
 
    [todo el código fuente](https://observablehq.com/d/42eac967a27b9cdd)
 
