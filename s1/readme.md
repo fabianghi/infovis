@@ -1,6 +1,7 @@
 Semana 1.
 
 [Mi primer página](https://fabianghi.github.io/infovis/s1/holamundo.html)
+
 makeovermonday 2022 w43
 
 Why Some MLB Pitchers Are Abandoning The Fastball
