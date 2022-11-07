@@ -6,8 +6,7 @@ makeovermonday 2022 w43
 
 Why Some MLB Pitchers Are Abandoning The Fastball
 
-Source: FiveThirtyEight
-Vamos a visualizarlo desde:
+Algunas visualizaciones:
 
 1. [Tableau](https://aaizemberg.github.io/ecd2022a/s1/tableau.html)
 2. [RawGraph](https://aaizemberg.github.io/ecd2022a/s1/bump.html)
