@@ -7,4 +7,4 @@ Who do we spend time with across our lifetime?
 Algunas visualizaciones:
 
 1. [Tableau](https://fabianghi.github.io/infovis/s3/tableau.html)
-2. [Flourish](https://fabianghi.github.io/infovis/s1/BumpChart.html) 
+2. [Flourish](https://fabianghi.github.io/infovis/s3/Flourixh_W44_Column_Stacked.html.html) 
